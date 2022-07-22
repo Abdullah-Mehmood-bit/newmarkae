@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Technology Solutions",
+      "second": ""
+    },
+    "content": "Our team of developers will take care of the whole process from design and build to launching the site and making it live.",
+    "image": "/img/slid/hero-cover1.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Creative",
+      "second": "Design"
+    },
+    "content": "Our expertise in graphic design, web and branding will help your business stand out from the crowd and reach your target market",
+    "image": "/img/slid/cover2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "We are Meraki Digital",
+    "content": "We create design and develop digital solutions for your business.",
+    "image": "/img/slid/cover3.jpg"
+  }
+]
